@@ -1,0 +1,184 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body { 
+font-family: Gill Sans, Gill Sans MT, Myriad Pro, DejaVu Sans Condensed, Helvetica, Arial," sans-serif";
+	font-size:15px;
+	color: #333333;
+	width: 600px;
+	position:relative;
+	margin: 0 auto 0 auto;
+}
+
+#geral {
+	width: 600px;
+	height: 1300px;
+	margin: 0 auto 0 auto;
+	position:relative;
+}
+
+.topo {
+	width: 600px;
+	height: 45px;
+	background: #9BC24C;
+	margin:0 auto 0 auto;
+	position: relative;
+	align-items: center;
+	text-align: center
+	
+	
+}
+
+#logo {
+    position: relative;
+	margin: 10px auto 0 auto;
+	
+}
+
+.menu {
+	width: 600px;
+	margin: auto;
+	height: 30px;
+	font-size: 14px;
+	background: #9BC24C;
+}
+
+.menu ul li	{
+	position:relative;
+	display: inline;
+	text-align: center;
+	padding: 0 15px 0 12px;
+	top: 10px;
+	
+}
+
+.menu ul li a {
+	text-decoration: none;
+	color:#FFFFFF
+	
+}
+
+.menu ul li a:hover {
+	color:#668032;
+	
+}
+.boletim {
+	width: 600px;
+	
+}
+
+.Texto {
+	width: 540px;
+	height: 740px;
+	float:left;
+	margin: 20px 0 0 20px;
+	text-align: justify;
+	line-height: 18px;	
+	
+}
+
+.Texto h1 {
+	font-family: Gill Sans, Gill Sans MT, Myriad Pro, DejaVu Sans Condensed, Helvetica, Arial," sans-serif";
+	font-size: 20px;
+	font-style: negrito;
+	
+	
+}
+
+.menor {
+	width: 540px;
+	height: 20px;
+	font-size: 12px;
+	float:left;
+	margin: 20px 0 0 20px;
+	text-align: center;
+	
+}
+
+#fim {
+	width: 600px;
+	height: 220px;
+	background: #9BC24C;
+	margin: 10px auto 10px auto;
+	
+}
+
+.redes {
+	width: 250px;
+	height: 200px;
+	text-align: center;
+	float: left;
+	font-size: 14px;
+	margin: 10px 10px 10px 10px;
+	
+}
+
+#acompanhe {
+	  position: relative;
+	margin: 10px auto 0 auto;
+	
+}
+
+.icones {
+	width: 250px;
+	height: 45px;
+	float: left;
+	position:relative;
+	display: inline;
+	text-align: center;
+	vertical-align: baseline;
+	top: 10px;
+}
+
+.icone img{
+	position:relative;
+	display: inline;
+	text-align: center;
+}
+
+.telefones {
+	width: 250px;
+	height: 200px;
+	display: inline;
+	margin: 30px 30px 30px 30px;
+	position: absolute;
+}
+
+.telefones h1{
+	text-align: center;
+	font-size: 16px;
+	top: 10px;
+
+}
+
+.telefones img{
+	margin:5px 5px 0 5px;
+	vertical-align:text-bottom;
+}
+
+.telefones table{
+	margin: 10px;
+	position:absolute;
+	align: center;
+}
+
+#ultimo {
+	width: 600px;
+	height: 15px;
+	background: #9BC24C;
+	font-size:12px;
+	text-align: center;
+	float:left;
+	margin:auto;
+	
+}
+
+.ultimo{
+	width: 600px;
+	height: 15px;
+	background: #9BC24C;
+	font-size:12px;
+	text-align: center;
+	float:left;
+	margin:auto;
+}
